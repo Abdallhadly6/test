@@ -1,0 +1,33 @@
+Hey QA Ninja,
+ 
+Developers claim to fix all bugs you reported in version 1 and have added the Balance enquiry module to version 2.
+
+ 
+
+Go ahead and re-run your failed test cases.
+
+ 
+
+Link to version 2 of the site
+
+http://demo.guru99.com/V2/
+
+ 
+
+Use the login credentials you have already generated for version 1.
+
+ 
+
+Also, check the balance enquiry module for the first time!
+
+ 
+
+See you tomorrow!
+
+Happy Testing
+
+Team Guru99
+
+ 
+
+PS:  Tomorrow you will get Bugs identified by our experts. You can compare your bugs with that of our experts and detect bug leakages

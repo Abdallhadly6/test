@@ -1,0 +1,51 @@
+Hi Fellow Geek,
+ 
+Hope you had a blast executing the test cases.
+ 
+Did you find any bugs? Sure you did!
+
+ 
+
+Here are the executed test cases performed by our experts
+
+Module Test Cases
+Integration Test Cases
+The experts have raised bugs in this defect tracker here.
+
+ 
+
+There are tons of bugs and it's a terribly poor show from the development team.
+
+ 
+
+The programmers will be burning the mid-night oil have assured to fix them in the next release.
+
+ 
+
+The new version will be available tomorrow. The development team has informed they will add the Balance Enquiry module to this release.
+
+ 
+
+Assignment for the Day!
+
+1)  Create Unit Test plan for the Balance Enquiry Module
+
+2)  There is a change request from the client and the SRS has changed. Refer the SRS_v2 & Make changes in your Test Cases
+
+ 
+
+Happy Testing
+
+Team Guru99
+
+ 
+
+PRO TIP
+
+1)  You may notice that ALL of the integration test cases is failing. If such an event occurs in a real-time project, the entire project schedule will be delayed significantly. Hence, its necessary to execute smoke/sanity testing, before you start test execution. If the software build is failing smoke/sanity testing, you can reject the release as not fit for testing, saving you precious time.
+
+2)  You may observe that a unusually large number of test cases are failing in the unit test plan. Ideally, these defects must be identified and fix by the development team. But this never happens! Hence, we executed the unit test cases.
+
+3)  Refer Defect # 84 in the bug tracker. The name of the bank is spelled wrongly. It's a classic case of High Priority, Low severity bug. This test case was not documented and was reported due to Exploratory Testing performed by one of the testers. It's a healthy practice to perform some level of Exploratory Testing for any release.
+
+4)  Refer the "Revision History" to determine what has changed in the SRS

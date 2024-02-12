@@ -1,0 +1,19 @@
+Hi Fellow Geek,
+ 
+Hope you had a gala of a time executing the test cases.
+
+ 
+
+Below find links to
+
+Executed System Test Plan
+The new Bug Tracker
+Assignments for the Day
+
+There is another change request and the SRS is updated. Refer the SRS_v4
+Change the System Test Plan as the new SRS.
+ 
+
+Happy Testing
+
+Team Guru99

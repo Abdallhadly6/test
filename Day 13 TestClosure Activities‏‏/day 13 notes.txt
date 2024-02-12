@@ -1,0 +1,36 @@
+Hey there,
+ 
+We are finally announcing the project as officially closed
+
+Here are links to
+
+BugTracker_v4
+SystemTestPlan
+The Guru99 Banking site finally comes live! Thanks to all the effort you put into identifying bugs and making the site secure. 
+
+ 
+
+Test Closure is a good time to
+
+Analyze the nature & type of bugs reported and share with the development team to help them improve their performance
+Calculate Defect Rejection Ratio and other metrics to gauge the efficacy of the test cases you created
+Have a Team Meeting to identify various lessons learned during the testing, which can be shared with other testing teams in your organization or be used by your team in future projects.
+ 
+
+We would love to hear your feedback on our effort to give you an experience of a real time testing project. Do write to us!
+
+ 
+
+Take Care
+
+Team Guru99
+
+ 
+
+PS: You are all set to work in the real world. Earn some money now! Bid for testing projects here - 
+
+Freelancer
+
+ 
+
+Want to double up your chances of being hired? Refer the Test Management Tutorials. You may ask why? Because knowing about Test Management gives you a perspective and you will be better equipped to answer difficult questions during your interviews

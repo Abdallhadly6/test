@@ -1,0 +1,29 @@
+Hey there,
+ 
+How is it going? Do we have any test cases ready yet?
+
+Are you finding things difficult? If yes, that's good :) because, you are learning.
+
+Currently, you are lost and have no clue, where to begin your test case creation.
+
+You reach your supervisor/client with the problem, who in turns contacts the development team.
+
+The development team informs that, in the first version of the banking site, 
+they will implement the following modules for the Manager -
+
+New Customer
+Edit Customer
+New Account
+Edit Account
+Delete Account
+Delete Customer
+Mini Statement
+Customized Statement
+ 
+
+This gives you a start!
+
+ 
+
+You can forget everything else & concentrate on the above 8 modules for the Manager Role.
+

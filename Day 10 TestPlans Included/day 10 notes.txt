@@ -1,0 +1,26 @@
+Hey there,
+ 
+Here is the  link to the System Test plan created by our experts.
+ 
+Version 3 of the site is now available at http://demo.guru99.com/V3/
+
+ 
+
+You can use the same Manager login credentials you used for version 1.
+
+ 
+
+For customer login credentials,
+
+Login as a Manager
+Create a customer.
+Note the customer id and password
+Go To http://demo.guru99.com/V3/ and login with above credentials
+
+Happy Testing
+
+Team Guru99
+
+ 
+
+Want to double up your chances of being hired? Refer the Test Management Tutorials. You may ask why? Because knowing about Test Management gives you a perspective and you will be better equipped to answer difficult questions during your interviews

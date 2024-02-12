@@ -1,0 +1,73 @@
+Hi Fellow Tester,
+ 
+Updates on Version 2 of the site
+
+============================
+
+ 
+
+Below are the updated links
+
+Integration Test Cases
+Unit Test Cases
+Bug Tracker
+ 
+
+Refer the Changelog to determine the changes made in the test cases as per the SRS v2. 
+
+============================
+
+Updates on Version 3 of the site
+
+============================
+
+ 
+
+The development team has informed that version 3 will be available in next 2 days
+
+This release will feature
+
+ All modules for the Manager Role
+ All modules for the Customer Role
+Ideally, you need to create and execute module test cases for
+
+Manager Role:
+
+Change Password
+Deposit
+Withdrawal
+Fund Transfer
+Customer Role:
+
+Balance enquiry
+Fund Transfer
+Mini Statement
+Customized Statement
+Change Password
+You also need to perform integration testing for all modules.
+
+ 
+
+This requires a mammoth effort and is typically performed by a minimum team of 5 members.
+
+ 
+
+For our self- learning purposes,  we will ignore this step.
+
+ 
+
+Moving on to the next phase create a System test plan. If you are new to System testing, refer this tutorial
+
+Assignment for the day
+
+Create a System Test Plan
+Refer the SRS_v3. The client now wants a Webservice created. Create test cases to check this webservice.
+Cheers
+Team Guru99
+ 
+
+Pro Tip:
+
+1) If you check Defect # 10 in the Bug Tracker. Its status is deferred. This happens frequently during the life cycle of testing project wherein low priority & severity bugs which are taking too much time to resolve are deferred and fixed in the next phase of the project. Such bugs are also called "known issues"
+
+2) Any big change request (like the webservice request above) changes the scope of the project and budget needs to be re-negotiated. Albeit, this task is best left to your Business Development Executives and Test Managers

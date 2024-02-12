@@ -1,0 +1,44 @@
+Alright!
+
+Here are test cases created by our experts for the 8 Manager modules discussed in the last email. link
+
+You may argue that the above tests case looks more like Unit Test Cases and should be executed by the developers.
+
+ 
+
+In theory,  this is correct. In practice, the developers are almost always hard pressed for time and rarely test the system thoroughly. 
+Also, there could be errors resulting from differences in the development environment and the test environment (which is usually a copy of the production environment). 
+So as a best practice, it's better you check for some or all unit test cases. 
+Though, this approach may vary from company to company.
+
+In our Guru99 Bank project, we will include unit test cases.
+
+ 
+
+Integration Testing
+
+We strongly recommend you read this tutorial on integration testing before moving ahead.
+
+A typical software project consists of several software modules, coded by different programmers.  
+Integration testing focuses on checking data communication amongst these modules.
+ 
+
+Here is the Integration Test Plan prepared by our experts. link
+
+Alright lets baseline all our test cases today. Tomorrow we start with test execution!
+
+ 
+
+Regards
+
+Team Guru99
+
+
+Pro TIP
+
+1)Unit Testing is also called module testing or component testing
+
+2)The format of the Module, Integration test plans is NOT Fixed. 
+  There are NO universal formats. It's decided by your test organization to suit the requirements of the project. 
+  Do not worry if your formats are different from ours. 
+  But do check that you include all test cases/scenarios documented by our experts

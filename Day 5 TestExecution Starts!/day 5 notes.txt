@@ -1,0 +1,24 @@
+Hi,
+Here is a link to the first version of the Banking Site.
+
+http://demo.guru99.com/V1/
+
+Go ahead and execute your test cases on this site.
+
+But wait!
+
+You need login credentials to access this site. To get access
+
+Visit - http://demo.guru99.com/
+Enter your email id
+Login credentials for the manager is allocated to you & displayed onscreen. Credentials also sent at your email id.
+Login credentials are only valid for 20 days! So Hurry and execute your test cases. Find as many bugs as you can!
+ 
+
+Happy Testing
+
+Team Guru99
+ 
+NOTE: 
+You can document the bugs you find in a simple Excel. Ideally the bugs should be logged in a defect management system. But we will keep things simple and use a spreadsheet.
+Tomorrow we will send you bugs identified by our experts. You can compare the bugs you identified with that identified by experts and trace the bugs you may have missed.
